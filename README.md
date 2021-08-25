@@ -1,2 +1,2 @@
-- 👋 Hi, I’m newbie.
+- 👋 Hi, I’m a newbie.
 
